@@ -5,6 +5,6 @@
         <title>Hello World</title>
     </head>
     <body>
-        <?php echo("Hello! My name is Simon.") ?>
+        <?php echo("Hello! My name is Simon and I'm awesome.") ?>
     </body>
 </html>
